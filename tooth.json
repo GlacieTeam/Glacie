@@ -1,11 +1,11 @@
 {
-    "format_version": 2,
+    "format_version": 3,
+    "format_uuid": "289f771f-2c9a-4d73-9f3f-8492495a924d",
     "tooth": "github.com/GlacieTeam/Glacie",
     "version": "2.1.2-rc.3",
     "info": {
         "name": "Glacie",
         "description": "Muti-version support for LeviLamina",
-        "author": "GlacieTeam",
         "tags": [
             "glacie",
             "protocol",
@@ -13,18 +13,41 @@
             "type:mod",
             "platform:levilamina",
             "platform:endstone"
-        ]
+        ],
+        "avatar_url": ""
     },
-    "asset_url": "https://github.com/GlacieTeam/Glacie/releases/download/v{{version}}/Glacie-levilamina-windows.zip",
-    "prerequisites": {
-        "github.com/LiteLDev/LeviLamina": "1.1.x"
-    },
-    "files": {
-        "place": [
-            {
-                "src": "Glacie/*",
-                "dest": "plugins/Glacie/"
+    "variants": [
+        {
+            "label": "",
+            "platform": "win-x64",
+            "dependencies": {},
+            "assets": [
+                {
+                    "type": "zip",
+                    "urls": [
+                        "https://github.com/GlacieTeam/Glacie/releases/download/v2.1.2-rc.3/Glacie-levilamina-windows.zip"
+                    ],
+                    "placements": [
+                        {
+                            "type": "dir",
+                            "src": "Glacie/",
+                            "dest": "plugins/Glacie/"
+                        }
+                    ]
+                }
+            ],
+            "preserve_files": [],
+            "remove_files": [],
+            "scripts": {
+                "pre_install": [],
+                "install": [],
+                "post_install": [],
+                "pre_pack": [],
+                "post_pack": [],
+                "pre_uninstall": [],
+                "uninstall": [],
+                "post_uninstall": []
             }
-        ]
-    }
+        }
+    ]
 }
