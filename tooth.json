@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "tooth": "github.com/GlacieTeam/Glacie",
-    "version": "2.1.2-rc.2",
+    "version": "2.1.2-rc.3",
     "info": {
         "name": "Glacie",
         "description": "Muti-version support for LeviLamina",
