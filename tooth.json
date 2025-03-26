@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "tooth": "github.com/GlacieTeam/Glacie",
-    "version": "2.1.2",
+    "version": "2.1.2-rc.2",
     "info": {
         "name": "Glacie",
         "description": "Muti-version support for LeviLamina",
@@ -15,7 +15,7 @@
             "platform:endstone"
         ]
     },
-    "asset_url": "https://github.com/GlacieTeam/Glacie/releases/download/v2.1.2/Glacie-levilamina-windows.zip",
+    "asset_url": "https://github.com/GlacieTeam/Glacie/releases/download/v{{version}}/Glacie-levilamina-windows.zip",
     "prerequisites": {
         "github.com/LiteLDev/LeviLamina": "1.1.x"
     },

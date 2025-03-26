@@ -12,11 +12,11 @@
 [![Issues](https://img.shields.io/github/issues/GlacieTeam/Glacie.svg?style=for-the-badge)](https://github.com/GlacieTeam/Glacie/issues)
 
 # What is Glacie?
-Glacie is a server-side mod that allows players to seamlessly connect to servers running a different version from their client-eliminating issues where version mismatches would normally prevent joining.
+Glacie is a mod that allows players to seamlessly connect to servers running a different version from their client-eliminating issues where version mismatches would normally prevent joining.
 
 In essence, Glacie acts as a translator by converting differences in data packets between various versions, enabling players on different versions to connect to the server.
 
-# Mod Loader
+# Server Mod Loader
 - Currently, we support [**LeviLamina**](https://github.com/LiteLDev/LeviLamina) and [**Endstone**](https://github.com/EndstoneMC/endstone) mod loader.
 - If you don't know which one to choose, [**LeviLamina**](https://github.com/LiteLDev/LeviLamina) is recommended.
 
@@ -28,6 +28,9 @@ lip install github.com/GlacieTeam/Glacie
 ```
 ## Endstone
 - Download the release and unzip the zip package, then put the `Glacie.dll` into the plugins folder
+
+## Client
+- Download the release and unzip the zip package, the click `LaunchMinecraft.bat` to inject `Glacie.dll` into the client.
 
 # Precautions
 - If you are using [**Endstone**](https://github.com/EndstoneMC/endstone) mod loader, do not install any addon on your server. Addons and Glacie are not compatible on [**Endstone**](https://github.com/EndstoneMC/endstone) mod loader, and there will be problems when used at the same time.

@@ -12,11 +12,11 @@
 [![Issues](https://img.shields.io/github/issues/GlacieTeam/Glacie.svg?style=for-the-badge)](https://github.com/GlacieTeam/Glacie/issues)
 
 # 什么是Glacie？
-Glacie是一个服务端Mod，让玩家可无缝连接到与客户端版本不同的服务器，无需担心版本不匹配导致的无法加入问题。
+Glacie是一个Mod，让玩家可无缝连接到与客户端版本不同的服务器，无需担心版本不匹配导致的无法加入问题。
 
 Glacie实际上是一个翻译器，试图通过翻译不同版本之间的数据包差异，来允许不同版本的玩家进入服务器。
 
-# 加载器
+# 服务端模组加载器
 - 截至目前，我们支持 [**LeviLamina**](https://github.com/LiteLDev/LeviLamina) 和 [**Endstone**](https://github.com/EndstoneMC/endstone) 模组加载器
 - 如果你不知道选哪一个，我们推荐使用 [**LeviLamina**](https://github.com/LiteLDev/LeviLamina)
 
@@ -29,6 +29,9 @@ lip install github.com/GlacieTeam/Glacie
 ```
 ## Endstone
 - 从release下载最新版本并解压压缩包，将 `Glacie.dll` 放入插件文件夹里面。
+
+## 客户端
+- 从release下载最新版本并解压压缩包，运行 `LaunchMinecraft.bat` 注入 `Glacie.dll` 至客户端。
 
 # 注意事项
 - 如果你正在使用 [**Endstone**](https://github.com/EndstoneMC/endstone) 加载器，请不在在服务器上安装任何 Addon。 Addons 和 Glacie 在 [**Endstone**](https://github.com/EndstoneMC/endstone) 平台上并不兼容，同时使用会出现问题。
