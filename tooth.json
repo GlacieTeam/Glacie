@@ -2,7 +2,7 @@
     "format_version": 3,
     "format_uuid": "289f771f-2c9a-4d73-9f3f-8492495a924d",
     "tooth": "github.com/GlacieTeam/Glacie",
-    "version": "2.0.2",
+    "version": "2.1.3",
     "info": {
         "name": "Glacie",
         "description": "Muti-version support for LeviLamina",
@@ -25,7 +25,7 @@
                 {
                     "type": "zip",
                     "urls": [
-                        "https://github.com/GlacieTeam/Glacie/releases/download/v2.0.2/Glacie-levilamina-windows.zip"
+                        "https://github.com/GlacieTeam/Glacie/releases/download/v2.1.3/Glacie-levilamina-windows.zip"
                     ],
                     "placements": [
                         {
