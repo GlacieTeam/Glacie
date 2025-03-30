@@ -1,0 +1,12 @@
+{
+    "Initializing Bedrock Protocol Library...": "Initializing Bedrock Protocol Library...",
+    "Bedrock Protocol Library initialized in {0}ms": "Bedrock Protocol Library initialized in {0}ms",
+    "Connection closed: network protocol version mismatch!": "Connection closed: network protocol version mismatch!",
+    "Your client protocol version: {0}": "Your client protocol version: {0}",
+    "Protocol versions Glacie supported: {0}": "Protocol versions Glacie supported: {0}",
+    "Client connecting, RakNet GUID: {0}, network protocol version: {1}": "Client connecting, RakNet GUID: {0}, network protocol version: {1}",
+    "Client disconnected: network protocol version mismatch! RakNet GUID: {0}, network protocol version: {1}": "Client disconnected: network protocol version mismatch! RakNet GUID: {0}, network protocol version: {1}",
+    "Network protocol {0} is not supported, removing...": "Network protocol {0} is not supported, removing...",
+    "Invalid network protocol {0}, removing...": "Invalid network protocol {0}, removing...",
+    "Connection closed: server closed.": "Connection closed: server closed."
+}

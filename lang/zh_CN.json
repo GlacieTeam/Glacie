@@ -1,0 +1,12 @@
+{
+    "Initializing Bedrock Protocol Library...": "正在初始化基岩协议库...",
+    "Bedrock Protocol Library initialized in {0}ms": "基岩协议库初始化完毕，耗时 {0}ms",
+    "Connection closed: network protocol version mismatch!": "连接已断开: 不支持的网络协议版本！",
+    "Your client protocol version: {0}": "你的客户端协议版本: {0}",
+    "Protocol versions Glacie supported: {0}": "Glacie支持的协议版本: {0}",
+    "Client connecting, RakNet GUID: {0}, network protocol version: {1}": "客户端连接中，RakNet GUID: {0}，网络协议版本: {1}",
+    "Client disconnected: network protocol version mismatch! RakNet GUID: {0}, network protocol version: {1}": "客户端已断开连接: 网络协议不匹配。RakNet GUID: {0}，网络协议版本: {1}",
+    "Network protocol {0} is not supported, removing...": "不支持的网络协议: {0}, 正在删除...",
+    "Invalid network protocol {0}, removing...": "无法解析的网络协议: {0}, 正在删除...",
+    "Connection closed: server closed.": "连接已断开: 服务器已关闭"
+}

@@ -46,6 +46,9 @@ lip install github.com/GlacieTeam/Glacie
 | 1.21.70/71        | 786              | :white_check_mark: | Already Supported  |
 | 1.21.80           | unknown          | :x:                | Upcoming Support   |
 
+# Localization Translation
+You can help us improve the translation
+
 # Communication & FAQ
 - Join our [Discord](https://discord.gg/7uJNS3tNa6) community: https://discord.gg/7uJNS3tNa6
 - Join our [QQ Group](https://qm.qq.com/q/1yn1ZHEoyY): 642538983
