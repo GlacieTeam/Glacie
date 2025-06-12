@@ -20,6 +20,9 @@ In essence, Glacie acts as a translator by converting differences in data packet
 - Currently, we support [**LeviLamina**](https://github.com/LiteLDev/LeviLamina) and [**Endstone**](https://github.com/EndstoneMC/endstone) mod loader.
 - If you don't know which one to choose, [**LeviLamina**](https://github.com/LiteLDev/LeviLamina) is recommended.
 
+# Dependence
+### **Glacie** requires [**ProtocolLib**](https://github.com/GlacieTeam/ProtocolLib) to be installed as a prerequisite in order to function properly.
+
 # Installation
 ## LeviLamina
 - Lip
@@ -41,11 +44,11 @@ lip install github.com/GlacieTeam/Glacie
 | Minecraft Version | Protocol Version | Support Status     | Support Planned    |
 | ----------------- | ---------------- | ------------------ | ------------------ |
 | <= 1.21.4x        | <= 748           | :x:                | No Plan to Support |
-| 1.21.50/51        | 766              | :white_check_mark: | Already Supported  |
-| 1.21.60/61/62     | 776              | :white_check_mark: | Already Supported  |
-| 1.21.70/71/72/73  | 786              | :white_check_mark: | Already Supported  |
-| 1.21.80           | 800              | :white_check_mark: | Already Supported  |
-| 1.21.90           | unknown          | :x:                | Upcoming Support   |
+| 1.21.5x           | 766              | :white_check_mark: | Already Supported  |
+| 1.21.6x           | 776              | :white_check_mark: | Already Supported  |
+| 1.21.7x           | 786              | :white_check_mark: | Already Supported  |
+| 1.21.8x           | 800              | :white_check_mark: | Already Supported  |
+| 1.21.9x           | 818              | :x:                | Upcoming Support   |
 
 # Localization Translation
 You can help us improve the translation

@@ -20,6 +20,8 @@ Glacie实际上是一个翻译器，试图通过翻译不同版本之间的数�
 - 截至目前，我们支持 [**LeviLamina**](https://github.com/LiteLDev/LeviLamina) 和 [**Endstone**](https://github.com/EndstoneMC/endstone) 模组加载器
 - 如果你不知道选哪一个，我们推荐使用 [**LeviLamina**](https://github.com/LiteLDev/LeviLamina)
 
+# 依赖
+### **Glacie** 需要前置库 [**ProtocolLib**](https://github.com/GlacieTeam/ProtocolLib) 才能正常工作。
 
 # 安装
 ## LeviLamina
@@ -42,11 +44,11 @@ lip install github.com/GlacieTeam/Glacie
 | Minecraft 版本    | 协议版本          | 当前支持情况        | 计划支持情况 |
 | ----------------- | ---------------- | ------------------ | ----------- |
 | <= 1.21.4x        | <= 748           | :x:                | 无计划支持   |
-| 1.21.50/51        | 766              | :white_check_mark: | 已经支持     |
-| 1.21.60/61/62     | 776              | :white_check_mark: | 已经支持     |
-| 1.21.70/71/72/73  | 786              | :white_check_mark: | 已经支持     |
-| 1.21.80           | 800              | :white_check_mark: | 已经支持     |
-| 1.21.90           | 未知             | :x:                | 即将支持     |
+| 1.21.5x           | 766              | :white_check_mark: | 已经支持     |
+| 1.21.6x           | 776              | :white_check_mark: | 已经支持     |
+| 1.21.7x           | 786              | :white_check_mark: | 已经支持     |
+| 1.21.8x           | 800              | :white_check_mark: | 已经支持     |
+| 1.21.9x           | 818              | :x:                | 即将支持     |
 
 # 本地化翻译
 你可以帮助我们改进翻译
