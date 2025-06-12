@@ -41,14 +41,7 @@ lip install github.com/GlacieTeam/Glacie
 > 我们强烈推荐使用 [**LeviLamina**](https://github.com/LiteLDev/LeviLamina) 加载器。
 
 # 支持的客户端
-| Minecraft 版本    | 协议版本          | 当前支持情况        | 计划支持情况 |
-| ----------------- | ---------------- | ------------------ | ----------- |
-| <= 1.21.4x        | <= 748           | :x:                | 无计划支持   |
-| 1.21.5x           | 766              | :white_check_mark: | 已经支持     |
-| 1.21.6x           | 776              | :white_check_mark: | 已经支持     |
-| 1.21.7x           | 786              | :white_check_mark: | 已经支持     |
-| 1.21.8x           | 800              | :white_check_mark: | 已经支持     |
-| 1.21.9x           | 818              | :x:                | 即将支持     |
+- 取决于 [**ProtocolLib**](https://github.com/GlacieTeam/ProtocolLib)
 
 # 本地化翻译
 你可以帮助我们改进翻译

@@ -41,14 +41,7 @@ lip install github.com/GlacieTeam/Glacie
 > We highly recommend using [**LeviLamina**](https://github.com/LiteLDev/LeviLamina) mod loader instead.
 
 # Supported Clients
-| Minecraft Version | Protocol Version | Support Status     | Support Planned    |
-| ----------------- | ---------------- | ------------------ | ------------------ |
-| <= 1.21.4x        | <= 748           | :x:                | No Plan to Support |
-| 1.21.5x           | 766              | :white_check_mark: | Already Supported  |
-| 1.21.6x           | 776              | :white_check_mark: | Already Supported  |
-| 1.21.7x           | 786              | :white_check_mark: | Already Supported  |
-| 1.21.8x           | 800              | :white_check_mark: | Already Supported  |
-| 1.21.9x           | 818              | :x:                | Upcoming Support   |
+- Depends on [**ProtocolLib**](https://github.com/GlacieTeam/ProtocolLib)
 
 # Localization Translation
 You can help us improve the translation
