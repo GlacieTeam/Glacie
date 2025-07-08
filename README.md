@@ -36,7 +36,6 @@ lip install github.com/GlacieTeam/Glacie
 - Download the release and unzip the zip package, the click `LaunchMinecraft.bat` to inject `Glacie.dll` into the client.
 
 # Precautions
-- If you are using [**Endstone**](https://github.com/EndstoneMC/endstone) mod loader, do not install any addon on your server. Addons and Glacie are not compatible on [**Endstone**](https://github.com/EndstoneMC/endstone) mod loader, and there will be problems when used at the same time.
 - If you are using [**Endstone**](https://github.com/EndstoneMC/endstone) mod loader, you must set `block-network-ids-are-hashes=true` in `server.properties` manually (the default value is `true`), otherwise players from different versions will not be able to see any blocks.
 > We highly recommend using [**LeviLamina**](https://github.com/LiteLDev/LeviLamina) mod loader instead.
 
@@ -56,5 +55,8 @@ You can help us improve the translation
 # License
 - [GitHub Release](https://github.com/GlacieTeam/Glacie/releases) is the sole and exclusive official source for downloading. Any other source of download is unauthorized and constitutes illegal reproduction. 
 - Unauthorized reproduction, integration, or redistribution is strictly prohibited.
+
+# Support
+- https://afdian.tv/a/GlacieTeam
 
 ## Copyright © 2025 GlacieTeam. All rights reserved.

@@ -36,7 +36,6 @@ lip install github.com/GlacieTeam/Glacie
 - 从release下载最新版本并解压压缩包，运行 `LaunchMinecraft.bat` 注入 `Glacie.dll` 至客户端。
 
 # 注意事项
-- 如果你正在使用 [**Endstone**](https://github.com/EndstoneMC/endstone) 加载器，请不在在服务器上安装任何 Addon。 Addons 和 Glacie 在 [**Endstone**](https://github.com/EndstoneMC/endstone) 平台上并不兼容，同时使用会出现问题。
 - 如果你正在使用 [**Endstone**](https://github.com/EndstoneMC/endstone) 加载器，你需要手动在 `server.properties` 里面设置 `block-network-ids-are-hashes=true` (默认值是 `true`)，否则来自其他版本的玩家看不见任何方块。
 > 我们强烈推荐使用 [**LeviLamina**](https://github.com/LiteLDev/LeviLamina) 加载器。
 
@@ -56,5 +55,8 @@ lip install github.com/GlacieTeam/Glacie
 # 许可
 - [GitHub Release](https://github.com/GlacieTeam/Glacie/releases) 是唯一官方下载源。其它任何下载源都是未经授权的非法转载。
 - 未经许可，严禁任何转载、整合和二次分发。
+
+# 赞助
+- https://afdian.tv/a/GlacieTeam
 
 ## 版权所有 © 2025 GlacieTeam, 保留所有权利.
