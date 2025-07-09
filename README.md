@@ -56,7 +56,7 @@ You can help us improve the translation
 - [GitHub Release](https://github.com/GlacieTeam/Glacie/releases) is the sole and exclusive official source for downloading. Any other source of download is unauthorized and constitutes illegal reproduction. 
 - Unauthorized reproduction, integration, or redistribution is strictly prohibited.
 
-# Support
+# Donate
 - https://afdian.tv/a/GlacieTeam
 
 ## Copyright © 2025 GlacieTeam. All rights reserved.
