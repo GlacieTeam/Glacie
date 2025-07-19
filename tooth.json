@@ -34,6 +34,19 @@
                             "dest": "plugins/Glacie/"
                         }
                     ]
+                },
+                {
+                    "type": "zip",
+                    "urls": [
+                        "https://github.com/GlacieTeam/ProtocolLib/releases/latest/download/ProtocolLib-windows-x86_64.zip"
+                    ],
+                    "placements": [
+                        {
+                            "type": "file",
+                            "src": "ProtocolLib.dll",
+                            "dest": "plugins/Glacie/lib/ProtocolLib.dll"
+                        }
+                    ]
                 }
             ],
             "preserve_files": [],
