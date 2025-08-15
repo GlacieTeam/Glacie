@@ -32,7 +32,7 @@ lip install github.com/GlacieTeam/Glacie
 ## Endstone
 - Download the release and unzip the zip package, then put the `Glacie.dll` into the plugins folder
 
-## Client
+## Client (Optional)
 - Download the release and unzip the zip package, the click `LaunchMinecraft.bat` to inject `Glacie.dll` into the client.
 
 # Precautions
