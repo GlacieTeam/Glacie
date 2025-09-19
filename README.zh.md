@@ -4,7 +4,7 @@
 ![简体中文](https://img.shields.io/badge/简体中文-inactive?style=for-the-badge)
 
 [![642538983](https://img.shields.io/badge/642538983-pink?style=for-the-badge&logo=qq)](https://qm.qq.com/q/1yn1ZHEoyY)
-[![Discord](https://img.shields.io/discord/1346034987136192523?style=for-the-badge&logo=discord)](https://discord.gg/7uJNS3tNa6)
+[![Discord](https://img.shields.io/discord/1346034987136192523?style=for-the-badge&logo=discord)](https://discord.gg/PJakaTYr85)
 
 [![Latest Tag](https://img.shields.io/github/v/tag/GlacieTeam/Glacie?label=Latest%20Tag&style=for-the-badge)](https://github.com/GlacieTeam/Glacie/releases)
 [![Stars](https://img.shields.io/github/stars/GlacieTeam/Glacie.svg?style=for-the-badge)](https://github.com/GlacieTeam/Glacie/stargazers)  
@@ -46,7 +46,7 @@ lip install github.com/GlacieTeam/Glacie
 你可以帮助我们改进翻译
 
 # 交流 & 提问
-- 加入我们的 [Discord](https://discord.gg/7uJNS3tNa6) 社区：https://discord.gg/7uJNS3tNa6
+- 加入我们的 [Discord](https://discord.gg/PJakaTYr85) 社区：https://discord.gg/PJakaTYr85
 - 加入我们的 [QQ交流群](https://qm.qq.com/q/1yn1ZHEoyY): 642538983
 
 # 反馈
