@@ -25,7 +25,7 @@
                 {
                     "type": "zip",
                     "urls": [
-                        "https://github.com/GlacieTeam/Glacie/releases/download/v3.5.1/Glacie-levilamina-windows-x86_64.zip"
+                        "https://github.com/GlacieTeam/Glacie/releases/download/v{{version}}/Glacie-levilamina-windows-x86_64.zip"
                     ],
                     "placements": [
                         {
