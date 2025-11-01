@@ -19,7 +19,7 @@
     "Glacie loaded! Build time: {0}": "Glacie 已加载！构建时间：{0}",
     "ProtocolLib loaded! Build time: {0}": "ProtocolLib 已加载！构建时间：{0}",
     "Your ProtocolLib is outdated, please update your ProtocolLib!": "你的 ProtocolLib 版本过低，请更新你的 ProtocolLib！",
-    "Authorization code is not set, you can edit config.json or use \"glacie activate <code>\" to set it.": "激活码未设置，您可以编辑 config.json 或使用 \"glacie activate <code>\" 进行设置。",
+    "Authorization code is not set, you can edit config.json or use \"glacie active <code>\" to set it.": "激活码未设置，您可以编辑 config.json 或使用 \"glacie active <code>\" 进行设置。",
     "Unable to connect to the authentication server, reconnecting... ({0}/5)": "无法连接到身份验证服务器，正在重连... ({0}/5)",
     "Unable to connect to the authentication server. Please check your network settings.": "无法连接到身份验证服务器，请检查您的网络设置。",
     "Authorization verified!": "授权验证通过。",
