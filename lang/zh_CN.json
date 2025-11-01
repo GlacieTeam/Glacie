@@ -39,6 +39,5 @@
     "Unloading Bedrock Protocol Library...": "正在卸载协议库...",
     "Bedrock Protocol Library unloaded!": "协议库已卸载!",
     "The authorization will expire on {0}.": "授权将在 {0} 过期。",
-    "Please enter the authorization code:": "请输入授权码：",
     "Authorization verification in progress, please wait.": "正在进行授权验证，请耐心等待。"
 }

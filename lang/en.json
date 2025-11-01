@@ -40,6 +40,5 @@
     "Unloading Bedrock Protocol Library...": "Unloading Bedrock Protocol Library...",
     "Bedrock Protocol Library unloaded!": "Bedrock Protocol Library unloaded!",
     "The authorization will expire on {0}.": "The authorization will expire on {0}.",
-    "Please enter the authorization code:": "Please enter the authorization code:",
     "Authorization verification in progress, please wait.": "Authorization verification in progress, please wait."
 }
