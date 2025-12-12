@@ -33,6 +33,13 @@ body:
 
   - type: input
     attributes:
+      label: ProtocolLib版本
+      description: 你所使用的 ProtocolLib 的版本
+    validations:
+      required: true
+
+  - type: input
+    attributes:
       label: 加载器版本
       description: 你使用的Mod加载器和版本（例如LeviLamina v0.8.0、Endstone v0.5.0）
     validations:
