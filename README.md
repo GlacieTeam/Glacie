@@ -59,4 +59,4 @@ You can help us improve the translation
 # Donate
 - https://afdian.tv/a/GlacieTeam
 
-## Copyright © 2025 GlacieTeam. All rights reserved.
+## Copyright © 2025 - 2026 GlacieTeam. All rights reserved.
