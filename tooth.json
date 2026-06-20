@@ -61,6 +61,51 @@
                 "uninstall": [],
                 "post_uninstall": []
             }
+        },
+		{
+            "label": "client",
+            "platform": "win-x64",
+            "dependencies": {},
+            "assets": [
+                {
+                    "type": "zip",
+                    "urls": [
+                        "https://github.com/GlacieTeam/Glacie/releases/download/v{{version}}/Glacie-client-windows-x86_64.zip"
+                    ],
+                    "placements": [
+                        {
+                            "type": "dir",
+                            "src": "Glacie/",
+                            "dest": "mods/Glacie/"
+                        }
+                    ]
+                },
+				{
+                    "type": "zip",
+                    "urls": [
+                        "https://github.com/GlacieTeam/ProtocolLib/releases/latest/download/ProtocolLib-windows-x86_64.zip"
+                    ],
+                    "placements": [
+                        {
+                            "type": "file",
+                            "src": "ProtocolLib.dll",
+                            "dest": "libraries/ProtocolLib.dll"
+                        }
+                    ]
+                }
+            ],
+            "preserve_files": [],
+            "remove_files": [],
+            "scripts": {
+                "pre_install": [],
+                "install": [],
+                "post_install": [],
+                "pre_pack": [],
+                "post_pack": [],
+                "pre_uninstall": [],
+                "uninstall": [],
+                "post_uninstall": []
+            }
         }
     ]
 }
