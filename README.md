@@ -32,9 +32,6 @@ lip install github.com/GlacieTeam/Glacie
 ## Endstone
 - Download the release and unzip the zip package, then put the `Glacie.dll` into the plugins folder
 
-## Client (Optional)
-- Download the release and unzip the zip package, the click `LaunchMinecraft.bat` to inject `Glacie.dll` into the client.
-
 # Precautions
 - If you are using [**Endstone**](https://github.com/EndstoneMC/endstone) mod loader, you must set `block-network-ids-are-hashes=true` in `server.properties` manually (the default value is `true`), otherwise players from different versions will not be able to see any blocks.
 > We highly recommend using [**LeviLamina**](https://github.com/LiteLDev/LeviLamina) mod loader instead.
